@@ -3,8 +3,9 @@
 - A weeb who likes writing code for fun.
 - The repos here mostly are some trash pieces of code that I write to serve some of my needs, except for some large projects.
 
-- Favourite operating system: Apple macOS. Windows sucks. *nix masterace!<br>
-And since I don't want to pay that much money to buy a slim laptop with a crappy "butterfly" keyboard so I did install Hackintosh on my Thinkpad T430s instead. If you are also using a Thinkpad, then ah I see, you are a (wo)man of culture as well.
+- Favourite operating system: Apple macOS. Windows sucks. *nix masterace!
+- Since I don't want to pay that much money to buy a slim laptop with a crappy "butterfly" keyboard so I did install Hackintosh on my Thinkpad T430s instead. If you are also using a Thinkpad, then ah I see, you are a (wo)man of culture as well.
+<br>I need Adobe Photoshop and Microsoft Office so Linux is not my cup of tea.
 - Addictive to the Holy Terminal.
 - Mainly uses VS Code as the main code editor. Sometimes I use vim as well.
 - Familiar with C++, Python and Javascript.
