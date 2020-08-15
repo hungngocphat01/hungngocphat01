@@ -7,7 +7,7 @@
 - Since I don't want to pay that much money to buy a razor slim laptop with a crappy "butterfly" keyboard so I did install Hackintosh on my Thinkpad T430s instead. If you are also using a Thinkpad, then ah I see, you are a (wo)man of culture as well.
 <br>I need Adobe Photoshop and Microsoft Office so Linux is not my cup of tea.
 - Addictive to the Holy Terminal.
-- Mainly uses VS Code as the main code editor. Sometimes I use vim as well.
+- Mainly use VS Code as the main code editor. Sometimes I use vim as well.
 - Familiar with C++, Python and Javascript.
 
 - This is not how I normally use my "fake Mac" but, yeah, just because I think it is kakkoi to use the terminal in a way like this.
