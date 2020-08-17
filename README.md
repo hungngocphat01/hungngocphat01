@@ -10,5 +10,7 @@
 - Mainly use VS Code as the main code editor. Sometimes I use vim as well.
 - Familiar with C++, Python and Javascript.
 
+![phathung2001's github stats](https://github-readme-stats.vercel.app/api?username=phathung2001)]
+
 - This is not how I normally use my "fake Mac" but, yeah, just because I think it is kakkoi to use the terminal in a way like this.
 <img src = "https://raw.githubusercontent.com/phathung2001/phathung2001/master/terminal.png"/>
