@@ -1,5 +1,8 @@
 <div align="center"><h1> hungngocphat01 </h1> </div>
-
+<div align="center>
+<img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" alt="cpp_icon" width="200">            
+<div/>
+                                                                                                               
 - A weeb who likes writing code for fun.
 - The repos here mostly are some trash pieces of code that I write to serve some of my needs, except for some large projects.
 
