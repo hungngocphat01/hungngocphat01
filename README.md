@@ -10,7 +10,7 @@
 
 - Current laptop: ThinkPad T14 AMD.
 - Current operating system: Arch Linux.
-- Used to use macOS (Hackintosh) on my old T430s for almost a year.
+- macOS simp (used macOS (Hackintosh) as the main OS on my old ThinkPad T430s for almost a year).
 
 - Familiar with C++, Python and Javascript.
 - Mainly use VS Code as my main code editor. Sometimes I use vim as well.
