@@ -6,7 +6,9 @@
 <img height="50" alt="archlinux-icon" src="https://www.logolynx.com/images/logolynx/91/914639a1180c179a71fee283128b01c5.png"/></span></div>
 
 - A weeb who likes writing code for fun.
-- The repos here mostly are some trash pieces of code that I wrote to serve some of my needs, except for some large projects, which is either my homework or projects from my university education.
+- Nationality: Vietnamese.
+- Interested in learning about East Asian culture and language, especially Japanese and old Vietnamese writing system (Han-Nom).
+- The repos here mostly are some trash pieces of code that I wrote to serve some of my needs, except for some large projects, which are either my homework or projects from my university education.
 
 - Current laptop: ThinkPad T14 AMD.
 - Current operating system: Arch Linux.
