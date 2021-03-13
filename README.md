@@ -21,7 +21,7 @@
 - Familiar with C++, Python and Javascript.
 - Mainly use VS Code as my main code editor. Sometimes I use vim as well.
 
-- **My alias - Ohtaka Hiraki**: Vietnam used to use the Chinese-like writing system in the feudal age (like Kanji), so basically almost everything in modern Vietnamese can be rewritten in the old system. Since they are Chinese characters, they can also be pronounced in Japanese as well. My name is 雄鈺発 written in chữ Hán, and can be pronounced as oh, takara and hiraki respectively. Combining all of them and simpliying the ‘ra’, we get Ohtaka Hiraki.
+- **My alias - Ohtaka Hiraki**: Vietnam used to use the Chinese-like writing system in the feudal age (like Kanji), so basically almost everything in modern Vietnamese can be rewritten in the old system. Since they are Chinese characters, they can also be pronounced in Japanese as well. My name is 雄鈺発 written in chữ Hán, and they can be pronounced as oh, takara and hiraki respectively. Combining all of them and simplifying the ‘ra’, we get Ohtaka Hiraki.
 
 <div align="center">
 <img alt="My github stats" src="https://github-readme-stats.vercel.app/api?username=hungngocphat01"/>
