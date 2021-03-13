@@ -23,4 +23,6 @@
 
 - **My alias - Ohtaka Hiraki**: Vietnam used to use the Chinese-like writing system in the feudal age (like Kanji), so basically almost everything in modern Vietnamese can be rewritten in the old system. Since they are Chinese characters, they can also be pronounced in Japanese as well. My name is 雄鈺発 written in chữ Hán, and can be pronounced as oh, takara and hiraki respectively. Combining all of them and simpliying the ‘ra’, we get Ohtaka Hiraki.
 
-![hungngocphat01's github stats](https://github-readme-stats.vercel.app/api?username=hungngocphat01)
+<div align="center">
+<img alt="My github stats" src="https://github-readme-stats.vercel.app/api?username=hungngocphat01"/>
+</div>
