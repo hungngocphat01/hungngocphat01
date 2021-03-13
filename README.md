@@ -12,8 +12,7 @@
 - 🇻🇳 Nationality: Vietnamese.
 - 🏫 fit@HCMUS, Quoc Hoc Quy Nhon.
 - 🇯🇵 A weeb. Also interested in old Vietnamese writing system (Han-Nom).
-- 📦 The public repos here mostly are some shitty projects that I wrote to serve some of my needs. There are some medium - large projects too, which are mostly the projects for my bachelor education.
-
+- 📦 Most repos here are just some small shitty programs that I wrote in my free time for fun. The rest are either my homework or university project.
 - 💻 Current laptop: ThinkPad T14 AMD.
 - <img height="15" alt="archlinux-icon" src="https://www.logolynx.com/images/logolynx/91/914639a1180c179a71fee283128b01c5.png"/> Current operating system: Arch Linux.
 - <img height="15" alt="apple-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/505px-Apple_logo_black.svg.png"/> macOS simp used to use macOS (Hackintosh) as the main OS on my old ThinkPad T430s for almost a year.
