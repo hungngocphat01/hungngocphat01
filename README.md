@@ -5,7 +5,6 @@
 <img height="50" alt="python-icon" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/>
 <img height="50" alt="archlinux-icon" src="https://www.logolynx.com/images/logolynx/91/914639a1180c179a71fee283128b01c5.png"/></span></div>
 
-- A weeb who likes writing code for fun.
 - 🇻🇳 Nationality: Vietnamese.
 - 🏫 fit@HCMUS, Quoc Hoc Quy Nhon.
 - 🇯🇵 A weeb. Also interested in old Vietnamese writing system (Han-Nom).
