@@ -13,14 +13,20 @@
 - 🏫 fit@HCMUS, Quoc Hoc Quy Nhon.
 - 🇯🇵 A weeb. Also interested in old Vietnamese writing system (Han-Nom).
 - 📦 Most repos here are just some small shitty programs that I wrote in my free time for fun. The rest are either my homework or university project.
-- 💻 Current laptop: ThinkPad T14 AMD.
+- 💻 Computers: 
+  - Early 2000s: Desktop with Intel Pentium III and 256 - 512 MB of RAM. 
+  - 2009 - 2015: Desktop with Intel Pentium IV and 1 - 2 GB of RAM.
+  - 2015 - 2019: Desktop with Intel Core i3-2100 and 4 GB of RAM.
+  - 2019 - 2020: ThinkPad T430s (Intel Core i5-3320M, Intel HD Graphics 4000, 8 GB of RAM). 
+  - 2020 - now: ThinkPad T14 Gen 1 (AMD Ryzen 5 PRO 4650U, AMD Radeon RX Vega 6, 16 GB of RAM).
+  
 - <img height="15" alt="archlinux-icon" src="https://www.logolynx.com/images/logolynx/91/914639a1180c179a71fee283128b01c5.png"/> Current operating system: Arch Linux.
-- <img height="15" alt="apple-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/505px-Apple_logo_black.svg.png"/> macOS simp used to use macOS (Hackintosh) as the main OS on my old ThinkPad T430s for almost a year.
+- <img height="15" alt="apple-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/505px-Apple_logo_black.svg.png"/> macOS is by far the most fascinating operating system I have ever used in my life. I used to use macOS Mojave on my old ThinkPad T430s (Hackintosh) for about a year. I was very fascinated by its tunning user interface, as well as its wonderful Unix-like shell. <br>I will definitely buy a real Mac later in my life when I have had enough money.
 
 - Familiar with C++, Python and Javascript.
 - Mainly use VS Code as my main code editor. Sometimes I use vim as well.
 
-- **My alias - Ohtaka Hiraki**: Vietnam used to use the Chinese-like writing system in the feudal age (like Kanji), so basically almost everything in modern Vietnamese can be rewritten in the old system. Since they are Chinese characters, they can also be pronounced in Japanese as well. My name is 雄鈺発 written in chữ Hán, and they can be pronounced as oh, takara and hiraki respectively. Combining all of them and simplifying the ‘ra’, we get Ohtaka Hiraki.
+- **About my alias - Ohtaka Hiraki**: Vietnam used to use a Chinese-like writing system back in the feudal age (similar to Kanji) called Han-Nom, so basically almost everything in modern Vietnamese can be rewritten in the old system. Since they are Chinese characters, they can also be pronounced in Japanese as well. My name is 雄鈺発 written in chữ Hán, and they can be pronounced as oh, takara and hiraki respectively. Combining all of them together and simplifying the ‘ra’, we get Ohtaka Hiraki.
 
 <div align="center">
 <img alt="My github stats" src="https://github-readme-stats.vercel.app/api?username=hungngocphat01"/>
