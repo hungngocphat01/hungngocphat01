@@ -16,7 +16,7 @@
 - 💻 Computers: 
   - Early 2000s: Desktop with Intel Pentium III and 256 - 512 MB of RAM. 
   - 2009 - 2015: Desktop with Intel Pentium IV and 1 - 2 GB of RAM.
-  - 2015 - 2019: Desktop with Intel Core i3-2100 and 4 GB of RAM and ThinkPad T430s (Intel Core i5-3320M, Intel HD Graphics 4000, 4 GB of RAM).
+  - 2015 - 2019: Desktop (Intel Core i3-2100, Intel HD Graphics 2000, 4 GB of RAM) and ThinkPad T430s (Intel Core i5-3320M, Intel HD Graphics 4000, 4 GB of RAM).
   - 2019 - 2020: Above ThinkPad T430s (RAM upgraded to 8 GB).
   - 2020 - now: ThinkPad T14 Gen 1 (AMD Ryzen 5 PRO 4650U, AMD Radeon RX Vega 6, 16 GB of RAM).
   
