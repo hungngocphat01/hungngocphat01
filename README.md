@@ -21,7 +21,7 @@
   - 2020 - now: ThinkPad T14 Gen 1 (AMD Ryzen 5 PRO 4650U, AMD Radeon RX Vega 6, 16 GB of RAM).
   
 - <img height="15" alt="archlinux-icon" src="https://www.logolynx.com/images/logolynx/91/914639a1180c179a71fee283128b01c5.png"/> Current operating system: Arch Linux.
-- <img height="15" alt="apple-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/505px-Apple_logo_black.svg.png"/> macOS is by far the most fascinating operating system I have ever used in my life. I used to use macOS Mojave on my old ThinkPad T430s (Hackintosh) for about a year. I was very fascinated by its stunning user interface, as well as its wonderful Unix-like shell. <br>I will definitely buy a real Mac later in my life when I have had enough money.
+- <img height="15" alt="apple-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/505px-Apple_logo_black.svg.png"/> macOS is by far the most fascinating operating system I have ever used in my life. I used to use macOS Mojave on my old ThinkPad T430s (Hackintosh) for about a year and I was very fascinated by its stunning user interface, as well as its nature of being a Unix-like operating system. <br>I will definitely buy a real Mac later in my life when I have had enough money.
 
 - Familiar with C++, Python and Javascript.
 - Mainly use VS Code as my main code editor. Sometimes I use vim as well.
