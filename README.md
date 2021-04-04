@@ -10,7 +10,7 @@
 </div>
 
 - 🇻🇳 Nationality: Vietnamese.
-- 🏫 fit@HCMUS, Quoc Hoc Quy Nhon.
+- 🏫 Quoc Hoc Quy Nhon High School; Computer Science @ University of Science, Ho Chi Minh.
 - 🇯🇵 A weeb. Also interested in old Vietnamese writing system (Han-Nom).
 - 📦 Most repos here are just some small shitty programs that I wrote in my free time for fun. The rest are either my homework or university project.
 - 💻 Computers: 
