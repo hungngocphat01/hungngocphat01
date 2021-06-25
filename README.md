@@ -24,6 +24,7 @@
 - <img height="15" alt="apple-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/505px-Apple_logo_black.svg.png"/> macOS is by far the most fascinating operating system I have ever used in my life. I used to use macOS Mojave on my old ThinkPad T430s (Hackintosh) for about a year and I was very fascinated by its stunning user interface, as well as its nature of being a Unix-like operating system. <br>I will definitely buy a real Mac later in my life when I have had enough money.
 
 - Familiar with C++, Python and Javascript.
+- Future career: ML Engineer/Data Engineer.
 - Code editor: VS Code, vim.
 
 - Why I chose a Japanese alias: Firstly, I'm a weeb, and every weebs think it's cool to have a Japanese alias. More importantly, my alias is created based on the transliteration of my real name from Modern Vietnamese (Latin alphabet) -> Middle Vietnamese (scripted in Hán tự and chữ Nôm, just like how Japanese and Korean make use of Kanji and Hanja), so it can also be pronounced in Japanese. This is definitely a linguistically legit  weeb-ish alias.
