@@ -6,7 +6,7 @@
   <img height="50" alt="python-icon" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/>
   <img height="50" alt="archlinux-icon" src="https://www.logolynx.com/images/logolynx/91/914639a1180c179a71fee283128b01c5.png"/>
 </span></br>
-  <h2> 雄鈺発 - Ohtaka Hiraki</h2>
+  <h2> 雄鈺発 - Takeda Hiraki</h2>
 </div>
 
 - 🇻🇳 Nationality: Vietnamese.
