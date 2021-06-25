@@ -26,7 +26,7 @@
 - Familiar with C++, Python and Javascript.
 - Code editor: VS Code, vim.
 
-- Why I chose a Japanese alias: Firstly, I'm a weeb, and every weebs think it's cool to have a Japanese alias. More importantly, my alias is created based on the transliteration from Modern Vietnamese -> Middle Vietnamese (scripted in Hán tự, similar to Kanji/Hanja), so it can also be pronounced in Japanese. This is definitely a linguistically legit  weeb-ish alias.
+- Why I chose a Japanese alias: Firstly, I'm a weeb, and every weebs think it's cool to have a Japanese alias. More importantly, my alias is created based on the transliteration of my real name from Modern Vietnamese -> Middle Vietnamese (scripted in Hán tự, similar to Kanji/Hanja), so it can also be pronounced in Japanese. This is definitely a linguistically legit  weeb-ish alias.
 
 <div align="center">
 <img alt="My github stats" src="https://github-readme-stats.vercel.app/api?username=hungngocphat01"/>
