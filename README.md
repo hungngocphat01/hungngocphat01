@@ -26,7 +26,7 @@
 - Familiar with C++, Python and Javascript.
 - Code editor: VS Code, vim.
 
-- **About my alias - Ohtaka Hiraki**: Vietnam used to use a Chinese-like writing system back in the feudal age (similar to Kanji) called Han-Nom, so basically almost everything in modern Vietnamese can be rewritten in the old system. Since they are Chinese characters, they can also be pronounced in Japanese as well. My name is 雄鈺発 written in chữ Hán, and they can be pronounced as oh, takara and hiraki respectively. Combining all of them together and simplifying the ‘ra’, we get Ohtaka Hiraki.
+- Why I chose a Japanese alias: Firstly, I'm a weeb, and every weebs think it's cool to have a Japanese alias. More importantly, my alias is created based on the transliteration from Modern Vietnamese -> Middle Vietnamese (scripted in Hán tự, similar to Kanji/Hanja), so it can also be pronounced in Japanese. This is definitely a linguistically legit  weeb-ish alias.
 
 <div align="center">
 <img alt="My github stats" src="https://github-readme-stats.vercel.app/api?username=hungngocphat01"/>
