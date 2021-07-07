@@ -15,7 +15,7 @@
 
 ## 👩‍💻 Technology-related info
 - Most proficient in C++ and Python.
-- Has asic understanding of HTML/CSS/Javascript.
+- Have basic understanding of HTML/CSS/Javascript and C#.
 - Future career: Data/Machine Learning Engineer.
 - I use Arch btw.
 
@@ -37,7 +37,8 @@
 - 2019 - 2020: Above ThinkPad T430s (RAM upgraded to 8 GB).
 - 2020 - now: ThinkPad T14 Gen 1 (AMD Ryzen 5 PRO 4650U, AMD Radeon RX Vega 6, 16 GB of RAM).
 
-Why I chose a Japanese alias? Firstly, I'm a weeb, and every weebs think it's cool to have a Japanese alias. More importantly, my alias is created based on the transliteration of my real name from Modern Vietnamese (Latin alphabet) -> Middle Vietnamese (scripted in Hán tự and chữ Nôm, just like how Japanese and Korean make use of Kanji and Hanja), so it can also be pronounced in Japanese. This is definitely a linguistically legit  weeb-ish alias.
+Why I chose a Japanese alias? <br>
+Well firstly, I'm a weeb, and every weeb think it's cool to have a Japanese alias. More importantly, my alias is created based on the transliteration of my real name from Modern Vietnamese (Latin alphabet) to Middle Vietnamese (scripted in Hán tự/chữ Nôm, just like how Japanese and Korean are scripted in Kanji and Hanja). As a result, it can also be pronounced in Japanese. This is definitely a linguistically legit weeb alias.
 
 <div align="center">
 <img alt="My github stats" src="https://github-readme-stats.vercel.app/api?username=hungngocphat01"/>
