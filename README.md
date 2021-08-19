@@ -1,4 +1,7 @@
-<div align="center"><h1> hungngocphat01 </h1></div>
+<div align="center">
+  <h1> hungngocphat01 </h1> 
+  <div style="padding: 20px;">Machine Learning/Data Engineer Student.</div>
+</div>
 
 <div align="center">
 <span>
@@ -9,15 +12,15 @@
   <h2> 雄鈺発 - Takeda Hiraki</h2>
 </div>
 
+<div align="center">
+<img alt="My github stats" src="https://github-readme-stats.vercel.app/api?username=hungngocphat01&show_icons=true&theme=tokyonight"/>
+  <br>
+<img alt="My languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungngocphat01&theme=tokyonight&hide=html&langs_count=6&layout=compact"/>
+</div>
+
 ## 🏫 Education
 - High school: Quoc Hoc Quy Nhon
 - Bachelor: Computer Science @ University of Science, Ho Chi Minh.
-
-## 👩‍💻 Technology-related info
-- Most proficient in C++ and Python.
-- Have basic understanding of HTML/CSS/Javascript and C#.
-- Future career: Data/Machine Learning Engineer.
-- I use Arch btw.
 
 ## 📚 Languages
 - English: IELTS 7.0 (mock test held by Yola + IDP Vietnam in 2019).<br>
@@ -39,7 +42,3 @@
 
 Why a Japanese alias? <br>
 I'm a weeb, and I'm sure that every weeb thinks it's cool to have a Japanese alias. My alias is created based on the transliteration of my real name from Modern Vietnamese (Latin alphabet) to Middle Vietnamese (scripted in Hán tự/chữ Nôm, similar to Kanji and Hanja). As a result, it can also be pronounced in Japanese. This is definitely a linguistically legit weeb alias.
-
-<div align="center">
-<img alt="My github stats" src="https://github-readme-stats.vercel.app/api?username=hungngocphat01"/>
-</div>
