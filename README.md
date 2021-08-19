@@ -4,13 +4,12 @@
   <h1> Hùng Ngọc Phát </h1> 
   <h3>雄鈺発 - Takeda Hiraki</h3>
   <h4>Machine Learning/Data Engineer Student.</h4>
+  <br>
+  <img align="" alt="My github stats" src="https://github-readme-stats.vercel.app/api?username=hungngocphat01&show_icons=true&theme=tokyonight"/>
+  <br>
+  <img align="" alt="My languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungngocphat01&theme=tokyonight&hide=html&langs_count=6&layout=compact"/>
 </div>
 <br>
-
-<div align="left">
-  <img align="" alt="My github stats" src="https://github-readme-stats.vercel.app/api?username=hungngocphat01&show_icons=true&theme=tokyonight"/>
-  <img align="right" alt="My languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungngocphat01&theme=tokyonight&hide=html&langs_count=6&layout=compact"/>
-</div>
 
 
 ## 👩‍💻 Programming Languages
