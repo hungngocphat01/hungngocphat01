@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="https://i.idol.st/u/card/transparent/252UR-Kousaka-Honoka-Could-Be-a-Real-Princess-Noble-Princess-NnhwvQ.png">
+
   <h1> Hùng Ngọc Phát </h1> 
   <h3>雄鈺発 - Takeda Hiraki</h3>
   <h4>Machine Learning/Data Engineer Student.</h4>
