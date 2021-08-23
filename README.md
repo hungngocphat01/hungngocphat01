@@ -44,4 +44,4 @@
 - Old Vietnamese writing system (Hán-Nôm).
 
 **Why a Japanese alias?** <br>
-I'm a weeb, and I'm sure that every weeb thinks it's cool to have a Japanese alias. My alias is created based on the transliteration of my real name from Modern Vietnamese (Latin alphabet) to Middle Vietnamese (scripted in Hán tự/chữ Nôm, similar to Kanji and Hanja). As a result, it can also be pronounced in Japanese. This is definitely a linguistically legit weeb alias.
+I'm a weeb, and I'm sure that every weeb thinks it's cool to have a Japanese alias. My alias is created based on the transliteration of my real name from Modern Vietnamese (Latin alphabet) to Middle Vietnamese (scripted in Hán-tự, the Vietnamese variant of the Kanji/Hanja/Hanzi family). As a result, it can also be pronounced in Japanese. This is definitely a linguistically legit weeb alias.
