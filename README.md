@@ -22,8 +22,8 @@
 
 ## 💻 Techy details
 - Laptop: ThinkPad T14 Gen 1 (AMD).
-- Operating system: i use arch btw.
-- Favourite OS: Apple macOS (for its good-looking UI, stability, POSIX compatibility, and the abundance of industrial standard software. Comprises of advantages from both Linux and Windows).
+- Operating system: Been using GNU/Linux as main OS for 3 years (Arch - openSUSE).
+- Favourite OS: Apple macOS (for its good-looking UI, stability, POSIX compatibility, and the abundance of industrial standard software. Comprises of advantages from both Linux and Windows). You can see my Hackintosh repository for my old laptop [here](https://github.com/hungngocphat01/OpenCore-Thinkpad-T430s).
 
 ![iusearchbtw](Screenshot_20210823_215451.png)
 
@@ -43,4 +43,4 @@
 - Old Vietnamese writing system (Hán-Nôm).
 
 **Why a Japanese alias?** <br>
-I'm a weeb, and I'm sure that every weeb thinks it's cool to have a Japanese alias. My alias is created based on the transliteration of my real name from Modern Vietnamese (Latin alphabet) to Middle Vietnamese (scripted in Hán-tự, the Vietnamese variant of the Kanji/Hanja/Hanzi family). As a result, it can also be pronounced in Japanese. This is definitely a linguistically legit weeb alias.
+I'm sure that every person in the M-A (manga-anime) community thinks it's cool to have a Japanese alias. My alias is created based on the transliteration of my real name from Modern Vietnamese (Latin alphabet) to Middle Vietnamese (scripted in Hán-tự, the Vietnamese variant of the Kanji/Hanja/Hanzi family). As a result, it can also be pronounced in Japanese. This is definitely a linguistically legit weeb alias.
