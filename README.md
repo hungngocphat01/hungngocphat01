@@ -13,13 +13,12 @@
 ## 👩‍💻 Programming Languages
 | Task                        | Languages                       |
 |--------------------------   |---------------------------------|
-| 🤖 Machine learning          | Python 3, MATLAB                |
+| 📈 DS/Machine learning          | Python 3, MATLAB                |
 | 📱 Mobile app development    | Dart (Flutter)                  |
+| 📠 Backend Development      | Javascript (Node.js)                  |
 | 🗃️ Database management       | TransactSQL, SQLite, PostgreSQL |
 | 📝 Documenting               | LaTeX, Markdown                |
 | 🖥️ Workflow automation       | Linux shell scripting (bash/zsh)|
-| 🎓 College assignments only | 8086 Assembly, C/C++            |
-| ⚰️ No longer working with    | Visual Basic, C#, Pascal        |
 
 ## 💻 Techy details
 - Laptop: ThinkPad T14 Gen 1 (AMD).
