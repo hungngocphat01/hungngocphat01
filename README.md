@@ -27,6 +27,9 @@
 
 ![iusearchbtw](Screenshot_20210823_215451.png)
 
+## 🎓 Certificates
+- [IBM Data Science Professional Certificate](https://coursera.org/share/97bfd03f03fea5d53380d408d9d27d67).
+
 ## 🏫 Education
 - High school: Quoc Hoc Quy Nhon
 - Bachelor: Computer Science @ University of Science, Ho Chi Minh.
