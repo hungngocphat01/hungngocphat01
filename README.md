@@ -13,10 +13,9 @@
 ## 👩‍💻 Programming Languages
 | Task                        | Languages                       |
 |--------------------------   |---------------------------------|
-| 📈 DS/Machine learning          | Python 3, MATLAB                |
+| 📈 DS/Machine learning          | Python 3, Julia                |
 | 📱 Mobile app development    | Dart (Flutter)                  |
-| 📠 Backend Development      | Javascript (Node.js)                  |
-| 🗃️ Database management       | TransactSQL, SQLite, PostgreSQL |
+| 📠 Backend Development      | Python (Django)                  |
 | 📝 Documenting               | LaTeX, Markdown                |
 | 🖥️ Workflow automation       | Linux shell scripting (bash/zsh)|
 
