@@ -11,13 +11,14 @@
 
 
 ## 👩‍💻 Programming Languages
-| Task                        | Languages                       |
-|--------------------------   |---------------------------------|
-| 📈 DS/Machine learning          | Python 3, Julia                |
+| Task                        | Languages                        |
+|--------------------------   |----------------------------------|
+| 📈 DS/Machine learning          | Python 3, Julia              |
 | 📱 Mobile app development    | Dart (Flutter)                  |
 | 📠 Backend Development      | Python (Django)                  |
-| 📝 Documenting               | LaTeX, Markdown                |
+| 📝 Documenting               | LaTeX, Markdown                 |
 | 🖥️ Workflow automation       | Linux shell scripting (bash/zsh)|
+| Other                        | C++, Pascal, x86 Assembly       |
 
 ## 💻 Techy details
 - Laptop: ThinkPad T14 Gen 1 (AMD).
