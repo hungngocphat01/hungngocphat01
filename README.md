@@ -28,6 +28,7 @@
 ![iusearchbtw](Screenshot_20210823_215451.png)
 
 ## 🎓 Certificates
+- [Machine Learning (Andrew Ng - Stanford Online)](https://www.coursera.org/account/accomplishments/verify/DPZ3S3FGH7ML).
 - [IBM Data Science Professional Certificate](https://coursera.org/share/97bfd03f03fea5d53380d408d9d27d67).
 
 ## 🏫 Education
