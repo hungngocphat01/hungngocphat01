@@ -46,5 +46,11 @@
 - Japanese language.
 - Old Vietnamese writing system (Hán-Nôm).
 
+## 📬 Contact
+- Email:
+  - hungngocphat01@gmail.com
+  - 19120615@student.hcmus.edu.vn
+- LinkedIn: www.linkedin.com/in/ngọc-phát-hùng-34204421b 
+
 **Why a Japanese alias?** <br>
 I'm sure that every person in the M-A (manga-anime) community thinks it's cool to have a Japanese alias. My alias is created based on the transliteration of my real name from Modern Vietnamese (Latin alphabet) to Middle Vietnamese (scripted in Hán-tự, the Vietnamese variant of the Kanji/Hanja/Hanzi family). As a result, it can also be pronounced in Japanese. This is definitely a linguistically legit weeb alias.
