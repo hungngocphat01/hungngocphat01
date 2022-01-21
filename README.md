@@ -37,7 +37,7 @@
 ## ✨ Hobbies
 - Japanese language and Hán - Nôm.
 - Vietnamese history.
-- Huge fan of the Love Live! franchise (since 2017).
+- Huge fan of the Love Live! franchise (since 2017). Honoka and Kanon's 激推し.
 - Been a ThinkPad user through 2 generations (6 years). Currently using a T14 AMD.
 - i love os x, but me poor so i use ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) btw.
 
