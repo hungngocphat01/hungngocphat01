@@ -1,8 +1,9 @@
 <div align="center">
   <div>
     <h1> Hùng Ngọc Phát </h1> 
-    <h3>雄鈺発 - Takeda Hiraki</h3>
-    <h4>Part-time data engineer, all-time weeb.</h4>
+    <h3>雄鈺発 - Hiraki Hung</h3>
+    <h4>Part-time data engineer, full-time weeb.</h4>
+    <p>A more "lengthy" introduction can be found on my <a href="https://hungngocphat01.netlify.app/">porfolio page</a></p>
   </div>
   
   <div>
