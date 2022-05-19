@@ -1,7 +1,7 @@
 <div align="center">
   <div>
     <h1> Hùng Ngọc Phát </h1> 
-    <h3>Data engineer</h3>
+    <h3>Data scientist</h3>
     <p>A more lengthy introduction together with my CV can be found on my <a href="https://hungngocphat01.netlify.app/">porfolio page</a></p>
   </div>
   
@@ -13,8 +13,8 @@
 
 
 ## 💻 Languages & Tools
-- **Data engineering**: Python, Apache Spark, Apache Hadoop, Azure Ecosystem.
 - **Data science & ML**: Scikit-Learn, Matplotlib, Pandas, Numpy, TensorFlow.
+- **Data engineering**: Python, Apache Spark, Apache Hadoop.
 - **Web development**: Django, JavaScript, HTML, Bootstrap 5.
 - **Mobile development**: React Native, Flutter.
 - **Database**: Microsoft SQL Server, MongoDB.
