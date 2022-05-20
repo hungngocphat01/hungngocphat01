@@ -35,11 +35,10 @@
 - Bachelor: Computer Science @ University of Science, Ho Chi Minh.
 
 ## 📚 Languages
-- English: IELTS 7.0 (2019), IELTS 7.5 (2022)*.<br>
-- Japanese: Adequate to understand seiyuu's shitposting stuffs on Twitter. Maybe N4 equivalent.
+- English: IELTS 7.5 (2022).<br>
+- Japanese: Adequate to understand seiyuu's shitposting stuffs on Twitter Maybe N4 equivalent.  
+  Used to make Viet subtitles for Love Live! PVs from 2018-2020.
 - Kinh language: native.
-
-(\*) me poor. they are all mock tests.
 
 ## 📬 Contact
 Email: hungngocphat01@gmail.com  
