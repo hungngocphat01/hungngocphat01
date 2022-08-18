@@ -1,48 +1,49 @@
 <div align="center">
   <div>
-    <h1> Hùng Ngọc Phát </h1> 
-    <h3>Data scientist</h3>
-    <p>A more lengthy introduction together with my CV can be found on my <a href="https://hungngocphat01.netlify.app/">porfolio page</a></p>
-  </div>
-  
-  <div>
-    <img align="" alt="My languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungngocphat01&theme=tokyonight&hide=html&langs_count=6&layout=compact"/>
+    <h1> Hi there, I'm Ngọc Phát 👀 </h1> 
   </div>
 </div>
-<br>
 
+<div align="center">  
+    <a href="https://hungngocphat01.github.io/" target="_blank">
+        <img src=https://img.shields.io/badge/Portfolio-hungngocphat01-%234ea94b?&labelColor=101010&style=for-the-badge alt=portfolio style="margin-bottom: 5px;" height="26" />
+    </a>
+    <a href="https://linkedin.com/in/hungngocphat-hcmus" target="_blank">
+        <img src=https://img.shields.io/badge/hungngocphat-blue?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" height="26" />
+    </a>
+    <a href="https://t.me/hiraki01" target="_blank">
+        <img src=https://img.shields.io/badge/@hiraki01-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white style="margin-bottom: 5px;" height="26"/>
+  </a>
+      <a href="mailto:hungngocphat01@gmail.com" target="_blank">
+        <img src=https://img.shields.io/badge/hungngocphat01-D14836?style=for-the-badge&logo=gmail&logoColor=white style="margin-bottom: 5px;" height="26" />
+    </a>
+</div>
+  
+--------------------------
 
-## 💻 Languages & Tools
-- **Data science & ML**: Scikit-Learn, Matplotlib, Pandas, Numpy, TensorFlow.
-- **Data engineering**: Spark, Hadoop.
-- **Web development**: Django, Flask, Express.js.
-- **Mobile development**: React Native, Flutter.
-- **Database**: Microsoft SQL Server, MongoDB, Cassandra.
+### 💬 About me
+- 🏛️ Education: University of Science, VNU-HCM.
+- 🎓 Currently studying data science.
+- 💬 Languages: English (IELTS 7.5) • Japanese (enough to watch sol animes without subs).
+- ☕ Interests: 
+  - Tech (obviously).
+  - Anime. Quite a big fan of _Love Live!_ since 2017.
+  - History.
+- [More info](https://hungngocphat01.github.io)
 
-## ✨ Hobbies
-- Tech, obviously.
-- Anime. Quite a big fan of _Love Live!_ since 2017.
-- Vietnamese history.
-- Japanese language & Han-Nom.
-- Definitely not Mathematics.
+### ⚙️ Technologies
+- **Data science:** pandas, numpy, matplotlib, tableau.
+- **Machine learning:** sklearn, tensorflow, keras.
+- **Big data**: spark, hadoop.
+- **SWE**: django, express.js, react.
+- **DBMS**: mongodb, cassandra, postgresql.
+- **Misc**: linux, bash, docker, git.
 
-## 🎓 Certificates
-- [Machine Learning (Andrew Ng - Stanford Online)](https://www.coursera.org/account/accomplishments/verify/DPZ3S3FGH7ML).
-- [IBM Data Science Professional Certificate](https://coursera.org/share/97bfd03f03fea5d53380d408d9d27d67).
+## ⚡ GitHub's Stats
 
-## 🏫 Education
-- High school: Quoc Hoc Quy Nhon.
-- Bachelor: Computer Science @ University of Science, Ho Chi Minh.
+<div align="center">
 
-## 📚 Languages
-- English: IELTS 7.5 (2022).<br>
-- Japanese: Adequate to understand seiyuu's shitposting stuffs on Twitter Maybe N4 equivalent.  
-  Used to make Viet subtitles for Love Live! PVs from 2018-2020.
-
-## 📬 Contact
-Email: hungngocphat01@gmail.com  
-LinkedIn: www.linkedin.com/in/ngọc-phát-hùng-34204421b 
-
-<div>
-    <img align="" alt="My github stats" src="https://github-readme-stats.vercel.app/api?username=hungngocphat01&show_icons=true&theme=tokyonight"/>
+| <a href="https://github.com/hungngocphat01"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hungngocphat01&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=react" alt="hungngocphat01's github stats" /></a> | <a href="https://github.com/hungngocphat01"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungngocphat01&layout=compact&hide_border=true&hide=html&langs_count=10&theme=react" /></a> |
+| ------------- | ------------- |
+  
 </div>
