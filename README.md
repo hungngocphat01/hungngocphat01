@@ -14,10 +14,10 @@
 
 ## 💻 Languages & Tools
 - **Data science & ML**: Scikit-Learn, Matplotlib, Pandas, Numpy, TensorFlow.
-- **Data engineering**: Python, Apache Spark, Apache Hadoop.
-- **Web development**: Django, JavaScript, HTML, Bootstrap 5.
+- **Data engineering**: Spark, Hadoop.
+- **Web development**: Django, Flask, Express.js.
 - **Mobile development**: React Native, Flutter.
-- **Database**: Microsoft SQL Server, MongoDB.
+- **Database**: Microsoft SQL Server, MongoDB, Cassandra.
 
 ## ✨ Hobbies
 - Tech, obviously.
@@ -31,14 +31,13 @@
 - [IBM Data Science Professional Certificate](https://coursera.org/share/97bfd03f03fea5d53380d408d9d27d67).
 
 ## 🏫 Education
-- High school: Quoc Hoc Quy Nhon
+- High school: Quoc Hoc Quy Nhon.
 - Bachelor: Computer Science @ University of Science, Ho Chi Minh.
 
 ## 📚 Languages
 - English: IELTS 7.5 (2022).<br>
 - Japanese: Adequate to understand seiyuu's shitposting stuffs on Twitter Maybe N4 equivalent.  
   Used to make Viet subtitles for Love Live! PVs from 2018-2020.
-- Kinh language: native.
 
 ## 📬 Contact
 Email: hungngocphat01@gmail.com  
