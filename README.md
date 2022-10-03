@@ -29,6 +29,7 @@
   - Tech (obviously).
   - Anime. Quite a big fan of _Love Live!_ since 2017.
   - History.
+- I'm religious and my religion is Shibuya Kanon.
 - [More info](https://hungngocphat01.github.io)
 
 ### ⚙️ Technologies
