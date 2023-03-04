@@ -34,7 +34,7 @@
 
 ### ⚙️ Technologies
 - **Machine learning:** sklearn, tensorflow, torch
-- - **SWE**: flask, django, express.js, react
+- **SWE**: flask, django, express.js, react
 - **Data science:** pandas, numpy, matplotlib, tableau
 - **Big data**: spark, hadoop
 - **DBMS**: mongodb, cassandra, postgresql
