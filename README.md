@@ -24,7 +24,7 @@
 ### 💬 About me
 - 🏛️ Education: University of Science, VNU-HCM.
 - 🎓 Currently studying data science.
-- 💬 Languages: English (IELTS 7.5) • Japanese (enough to watch sol animes without subs).
+- 💬 Languages: English (IELTS 7.5) • Japanese (pre-intermediate).
 - ☕ Interests: 
   - Tech (obviously).
   - Anime. Quite a big fan of _Love Live!_ since 2017.
@@ -33,12 +33,13 @@
 - [More info](https://hungngocphat01.github.io)
 
 ### ⚙️ Technologies
-- **Data science:** pandas, numpy, matplotlib, tableau.
-- **Machine learning:** sklearn, tensorflow, keras.
-- **Big data**: spark, hadoop.
-- **SWE**: django, express.js, react.
-- **DBMS**: mongodb, cassandra, postgresql.
-- **Misc**: linux, bash, docker, git.
+- **Machine learning:** sklearn, tensorflow, torch
+- - **SWE**: flask, django, express.js, react
+- **Data science:** pandas, numpy, matplotlib, tableau
+- **Big data**: spark, hadoop
+- **DBMS**: mongodb, cassandra, postgresql
+- **Misc**: linux, bash, docker, git
+- I used arch btw 
 
 ## ⚡ GitHub's Stats
 
