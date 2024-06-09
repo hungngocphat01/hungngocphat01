@@ -1,9 +1,10 @@
 <div align="center">
   <div>
-    <h1> Hi there, I'm Ngọc Phát 👀 </h1> 
+    <h1> hungngocphat (hiraki) </h1> 
   </div>
 </div>
 
+<!--
 <div align="center">  
     <a href="https://hungngocphat01.github.io/" target="_blank">
         <img src=https://img.shields.io/badge/Portfolio-hungngocphat01-%234ea94b?&labelColor=101010&style=for-the-badge alt=portfolio style="margin-bottom: 5px;" height="26" />
@@ -18,6 +19,7 @@
         <img src=https://img.shields.io/badge/hungngocphat01-D14836?style=for-the-badge&logo=gmail&logoColor=white style="margin-bottom: 5px;" height="26" />
     </a>
 </div>
+-->
   
 --------------------------
 
