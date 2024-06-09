@@ -31,7 +31,7 @@
   - History
   - Retro tech. Basically it's tech + history
 - I'm religious and my religion is Shibuya Kanon
-- Apple anti since 2013. iSheep since 2024.
+- Apple anti since 2013. isheep since 2023. i use arch btw on my work pc.
 - [More info](https://hungngocphat01.github.io)
 
 ### ⚙️ Languages and technologies
