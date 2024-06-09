@@ -43,7 +43,7 @@
 During my college years, I also wandered through the kingdoms of Express, React.js, Flutter, even 8086 Assembly, etc., but I don't recall precisely (ML pun intended) much of them now.
 
 ### 📖 Publications
-- Phat Hung, Long Nguyen, and Dien Dinh. "Transliterating Nom Script into Vietnamese National Script using Multilingual Machine Translation." _Proceedings of the 1st International Conference on Intelligent Systems and Data Science_
+- Hung, P., Nguyen, L., Dinh, D. (2024). Transliterating Nom Script into Vietnamese National Script Using Multilingual Neural Machine Translation. Intelligent Systems and Data Science. ISDS 2023. Communications in Computer and Information Science, vol 1950. Springer, Singapore.
 
 
 
