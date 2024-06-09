@@ -24,14 +24,14 @@
 ### 💬 About me
 - Data Scientist, Center of Applied Data Science (FPT Corporation)
 - Education: University of Science, VNU-HCM
-- Languages: English (IELTS 8.0) • Japanese (pre-intermediate)
-- Interests: 
+- Languages: English (IELTS 8.0) • Japanese (N4)
+- Interests:  
   - Tech (obviously)
   - Anime. Quite a big fan of _Love Live!_ since 2017
   - History
   - Retro tech. Basically it's tech + history
 - I'm religious and my religion is Shibuya Kanon
-- I _used_ arch btw. Now I use Fedora for work and Mac for other stuff
+- Apple anti since 2013. iSheep since 2024.
 - [More info](https://hungngocphat01.github.io)
 
 ### ⚙️ Languages and technologies
@@ -49,7 +49,7 @@ During my college years, I also wandered through the kingdoms of Express, React.
 
 <div align="center">
 
-| <a href="https://github.com/hungngocphat01"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hungngocphat01&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=react" alt="hungngocphat01's github stats" /></a> | <a href="https://github.com/hungngocphat01"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungngocphat01&layout=compact&hide_border=true&hide=html&langs_count=10&theme=react" /></a> |
+| <a href="https://github.com/hungngocphat01"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hungngocphat01&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=react" alt="hungngocphat01's github stats" /></a> | <a href="https://github.com/hungngocphat01"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungngocphat01&layout=compact&hide_border=true&hide=html,jupyter%20notebook&langs_count=10&theme=react" /></a> |
 | ------------- | ------------- |
   
 </div>
