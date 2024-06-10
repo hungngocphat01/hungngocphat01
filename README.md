@@ -106,7 +106,7 @@ These are just some of the most interesting ones. I did not realize I made so ma
 
 <div align="center">
 
-| <a href="https://github.com/hungngocphat01"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hungngocphat01&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=react" alt="hungngocphat01's github stats" /></a> | <a href="https://github.com/hungngocphat01"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungngocphat01&layout=compact&hide_border=true&hide=html,jupyter%20notebook&langs_count=10&theme=react&exclude_repo=HCMUS-NachOS-Project,OpenCore-Thinkpad-T430s" /></a> |
+| <a href="https://github.com/hungngocphat01"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hungngocphat01&show_icons=true&include_all_commits=true&hide_border=true&theme=react&exclude_repo=hungngocphat01" alt="hungngocphat01's github stats" /></a> | <a href="https://github.com/hungngocphat01"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungngocphat01&layout=compact&hide_border=true&hide=html,jupyter%20notebook&langs_count=10&theme=react&exclude_repo=HCMUS-NachOS-Project,OpenCore-Thinkpad-T430s" /></a> |
 | ------------- | ------------- |
   
 </div>
