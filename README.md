@@ -36,16 +36,71 @@
 - Apple anti since 2013. isheep since 2023. i use arch btw on my work pc.
 - [More info](https://hungngocphat01.github.io)
 
-### ⚙️ Languages and technologies
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
- ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
-During my college years, I also wandered through the kingdoms of Express, React.js, Flutter, even 8086 Assembly, etc., but I don't recall precisely (ML pun intended) much of them now.
 
 ### 📖 Publications
 - Hung, P., Nguyen, L., Dinh, D. (2024). Transliterating Nom Script into Vietnamese National Script Using Multilingual Neural Machine Translation. Intelligent Systems and Data Science. ISDS 2023. Communications in Computer and Information Science, vol 1950. Springer, Singapore.
 
+### ⚙️ Projects
 
+<table><thead>
+  <tr>
+    <th></th>
+    <th>Project</th>
+    <th>Tech</th>
+    <th>Year<br></th>
+    <th>Description</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td rowspan="2">Data science</td>
+    <td><a href="https://github.com/hungngocphat01/nano-seq" target="_blank" rel="noopener noreferrer">nano-seq</a></td>
+    <td>torch</td>
+    <td>2024</td>
+    <td>A PyTorch neural machine translation library implemented from scratch</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/hungngocphat01/zac22-lyrics-alignment" target="_blank" rel="noopener noreferrer">zac22-lyrics-alignment</a></td>
+    <td>transformers</td>
+    <td>2022</td>
+    <td>Our solution for ZaloAI Challenge 2022: aligning a song's audio file to the lyrics' text. Ranked 7th post-competition leaderboard</td>
+  </tr>
+  <tr>
+    <td rowspan="2">School projects</td>
+    <td><a href="https://github.com/hungngocphat01/HCMUS-DecisnTree-ID3" target="_blank" rel="noopener noreferrer">HCMUS-DecisnTree-ID3</a></td>
+    <td>julia</td>
+    <td>2022</td>
+    <td>Decision tree (ID3) training and inference implemented from scratch</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/hungngocphat01/HCMUS-Windows-FAT-NTFS" target="_blank" rel="noopener noreferrer">HCMUS-Windows-FAT-NTFS</a></td>
+    <td>python</td>
+    <td>2021</td>
+    <td>FAT32 reader, accompanied with an interactive shell written from ground up in Python</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Personal software projects</td>
+    <td><a href="https://github.com/hungngocphat01/CppSnake" target="_blank" rel="noopener noreferrer">CppSnake</a></td>
+    <td>c++</td>
+    <td>2021</td>
+    <td>C++ snake game using ncurses library</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/hungngocphat01/NES-Arduino-Calculator" target="_blank" rel="noopener noreferrer">NES-Arduino-Calculator</a></td>
+    <td>c++</td>
+    <td>2021</td>
+    <td>A calculator "operating system" for Arduino written in C++, with IO and syntax tree parsing written from scratch (in 4 days!!)</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/hungngocphat01/Flutter-VietnameseGomoku" target="_blank" rel="noopener noreferrer">Flutter-VietnameseGomoku</a></td>
+    <td>dart</td>
+    <td>2021</td>
+    <td>Cờ carô (Vietnamese tic-tac-toe/gomoku) game written in Flutter</td>
+  </tr>
+</tbody></table>
+
+Became pretty lazy after getting a full-time job, so not many side projects after 2022.
+
+These are just some of the most interesting ones. I did not realize I made so many side projects during my undergrad college years.
 
 ## ⚡ GitHub's Stats
 
