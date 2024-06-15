@@ -33,7 +33,7 @@
   - History
   - Retro tech. Basically it's tech + history
 - I'm religious and my religion is Shibuya Kanon
-- Apple anti since 2013. isheep since 2023. i use arch btw on my work pc.
+- Converted to isheepism in 2023. Former ianti since 2013.
 - [More info](https://hungngocphat01.github.io)
 
 
