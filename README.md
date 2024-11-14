@@ -24,7 +24,8 @@
 --------------------------
 
 ### 💬 About me
-- Data Scientist, Center of Applied Data Science (FPT Corporation)
+- Research Student, Japan Advanced Institute of Science and Technology
+  - Former Data Scientist, Center of Applied Data Science (FPT Corporation, Vietnam)
 - Education: University of Science, VNU-HCM
 - Languages: English (IELTS 8.0) • Japanese (N4)
 - Interests:  
