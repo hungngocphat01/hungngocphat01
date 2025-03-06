@@ -24,7 +24,8 @@
 --------------------------
 
 ### 💬 About me
-- Research Student, Japan Advanced Institute of Science and Technology
+- Master Student, Japan Advanced Institute of Science and Technology
+  - Researching Knowledge Graph, Recommendation System and Explainable AI
   - Former Data Scientist, Center of Applied Data Science (FPT Corporation, Vietnam)
 - Alma mater: University of Science, VNU-HCM
 - Languages: English (IELTS 8.0) • Japanese (N3)
