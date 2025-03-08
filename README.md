@@ -36,6 +36,7 @@
   - Retro tech. Basically it's tech + history
 - I'm religious and my religion is Shibuya Kanon
 - Former FOSS enthusiast since 2019, and iAnti since 2013
+   - i used arch btw
    - Until I surrendered to the walled garden in 2023
 - [More info](https://hungngocphat01.github.io)
 
