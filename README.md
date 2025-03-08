@@ -35,7 +35,8 @@
   - History
   - Retro tech. Basically it's tech + history
 - I'm religious and my religion is Shibuya Kanon
-- Converted to isheepism in 2023. Former ianti since 2013.
+- Former FOSS enthusiast since 2019, and iAnti since 2013
+   - Until I surrendered to the walled garden in 2023
 - [More info](https://hungngocphat01.github.io)
 
 
